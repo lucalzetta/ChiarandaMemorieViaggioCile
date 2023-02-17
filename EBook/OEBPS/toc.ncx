@@ -3,17 +3,17 @@
  "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
   <head>
-    <meta content="urn:uuid:d1784fc5-8b0d-4b4d-7864-3b13207d98de" name="dtb:uid"/>
+    <meta content="urn:uuid:e0b726c1-37c1-3743-8fa2-587a78b65a0c" name="dtb:uid"/>
     <meta content="1" name="dtb:depth"/>
     <meta content="0" name="dtb:totalPageCount"/>
     <meta content="0" name="dtb:maxPageNumber"/>
   </head>
   <docTitle>
-    <text>Discorso sul dovere della borghesia nelle province napoletane</text>
+    <text>Memorie di un viaggio in Cile</text>
   </docTitle>
 
   <docAuthor>
-	  <text>Benedetto Croce</text>
+	  <text>Eleonora Chiaranda</text>
   </docAuthor>
   <navMap>
 
@@ -47,7 +47,7 @@
 
     <navPoint id="navPoint-5" playOrder="5">
       <navLabel>
-        <text>Discorso</text>
+        <text>Memorie di un viaggio in Cile</text>
       </navLabel>
       <content src="Text/Section0005.xhtml"/>
     </navPoint>
