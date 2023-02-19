@@ -21,6 +21,17 @@
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
     <item id="x2_euro.png" href="Images/2_euro.png" media-type="image/png"/>
     <item id="copertina.jpg" href="Images/copertina.jpg" media-type="image/jpg"/>
+    <item id="Amiche.jpeg" href="Images/Amiche.jpeg" media-type="image/jpeg"/>
+    <item id="EeleonoraRitornoAereo.jpg" href="Images/EeleonoraRitornoAereo.jpg" media-type="image/jpg"/>
+    <item id="EleonoraBalloMaschera.jpeg" href="Images/EleonoraBalloMaschera.jpeg" media-type="image/jpeg"/>
+    <item id="EleonoraGiovanniAngelo.jpeg" href="Images/EleonoraGiovanniAngelo.jpeg" media-type="image/jpeg"/>
+    <item id="EleonoraNavigazione.jpeg" href="Images/EleonoraNavigazione.jpeg" media-type="image/jpeg"/>
+    <item id="EleonoraPartenza.jpeg" href="Images/EleonoraPartenza.jpeg" media-type="image/jpeg"/>
+    <item id="GianfrancoEFriends.jpeg" href="Images/GianfrancoEFriends.jpeg" media-type="image/jpeg"/>
+    <item id="GianfrancoEleonora.jpg" href="Images/GianfrancoEleonora.jpg" media-type="image/jpg"/>
+    <item id="MotonaveVespucci.jpg" href="Images/MotonaveVespucci.jpg" media-type="image/jpg"/>
+    <item id="SaragatTombassi.jpeg" href="Images/SaragatTombassi.jpeg" media-type="image/jpeg"/>
+    <item id="VincenzoInVetta.jpg" href="Images/VincenzoInVetta.jpg" media-type="image/jpg"/>
     <item id="e-text.png" href="Images/e-text.png" media-type="image/png"/>
     <item id="Style0001.css" href="Styles/Style0001.css" media-type="text/css"/>
     <item id="Section0001.xhtml" href="Text/Section0001.xhtml" media-type="application/xhtml+xml"/>
