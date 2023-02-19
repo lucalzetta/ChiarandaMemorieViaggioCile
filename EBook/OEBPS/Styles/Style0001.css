@@ -58,6 +58,8 @@ text-indent : -1em;
 }
 .testo_didascalia {
 page-break-inside:avoid;
+font-size : 75%;
+font-style : italic;
 }
 .testo_distanziato {
 padding-top: 2em;
