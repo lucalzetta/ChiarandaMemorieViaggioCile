@@ -5,12 +5,12 @@
     <dc:creator opf:file-as="Cognome, Nome" opf:role="aut">Eleonora Chiaranda</dc:creator>
     <dc:language>it</dc:language>
     <dc:subject>VIAGGI / Sud America / Cile</dc:subject>
-    <dc:publisher>Liber Liber</dc:publisher>
+    <dc:publisher>Autopubblicato</dc:publisher>
     <dc:contributor opf:file-as="Cognome, Nome" opf:role="trl"></dc:contributor>
     <dc:type>text</dc:type>
     <dc:format>application/epub+zip</dc:format>
     <dc:identifier opf:scheme="ISBN">17 FEBBRAIO 2023</dc:identifier>
-    <dc:rights>questo testo è distribuito con la licenza specificata al seguente indirizzo Internet: https://www.liberliber.it/online/opere/libri/licenze/</dc:rights>
+    <dc:rights>questo testo viene distribuito con licenza Creative commons</dc:rights>
     <dc:date opf:event="1a edizione elettronica">2023-02-17</dc:date>
     <dc:date opf:event="modification">2023-02-17</dc:date>
     <meta content="1.9.10" name="Sigil version"/>
