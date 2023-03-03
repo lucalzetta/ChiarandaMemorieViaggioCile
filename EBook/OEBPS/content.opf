@@ -9,7 +9,7 @@
     <dc:contributor opf:file-as="Cognome, Nome" opf:role="trl"></dc:contributor>
     <dc:type>text</dc:type>
     <dc:format>application/epub+zip</dc:format>
-    <dc:identifier opf:scheme="ISBN">17 FEBBRAIO 2023</dc:identifier>
+<!--    <dc:identifier opf:scheme="ISBN">17 FEBBRAIO 2023</dc:identifier>-->
     <dc:rights>questo testo viene distribuito con licenza Creative commons</dc:rights>
     <dc:date opf:event="1a edizione elettronica">2023-02-17</dc:date>
     <dc:date opf:event="modification">2023-02-17</dc:date>
@@ -21,6 +21,13 @@
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
     <item id="x2_euro.png" href="Images/2_euro.png" media-type="image/png"/>
     <item id="copertina.jpg" href="Images/copertina.jpg" media-type="image/jpg"/>
+	<item id="e-text.png" href="Images/e-text.png" media-type="image/png"/>
+	<item id="Style0001.css" href="Styles/Style0001.css" media-type="text/css"/>
+	<item id="Section0001.xhtml" href="Text/Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0002.xhtml" href="Text/Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0003.xhtml" href="Text/Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0004.xhtml" href="Text/Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0005.xhtml" href="Text/Section0005.xhtml" media-type="application/xhtml+xml"/>
     <item id="Amiche.jpeg" href="Images/Amiche.jpeg" media-type="image/jpeg"/>
     <item id="EeleonoraRitornoAereo.jpg" href="Images/EeleonoraRitornoAereo.jpg" media-type="image/jpg"/>
     <item id="EleonoraBalloMaschera.jpeg" href="Images/EleonoraBalloMaschera.jpeg" media-type="image/jpeg"/>
@@ -32,13 +39,6 @@
     <item id="MotonaveVespucci.jpg" href="Images/MotonaveVespucci.jpg" media-type="image/jpg"/>
     <item id="SaragatTombassi.jpeg" href="Images/SaragatTombassi.jpeg" media-type="image/jpeg"/>
     <item id="VincenzoInVetta.jpg" href="Images/VincenzoInVetta.jpg" media-type="image/jpg"/>
-    <item id="e-text.png" href="Images/e-text.png" media-type="image/png"/>
-    <item id="Style0001.css" href="Styles/Style0001.css" media-type="text/css"/>
-    <item id="Section0001.xhtml" href="Text/Section0001.xhtml" media-type="application/xhtml+xml"/>
-    <item id="Section0002.xhtml" href="Text/Section0002.xhtml" media-type="application/xhtml+xml"/>
-    <item id="Section0003.xhtml" href="Text/Section0003.xhtml" media-type="application/xhtml+xml"/>
-    <item id="Section0004.xhtml" href="Text/Section0004.xhtml" media-type="application/xhtml+xml"/>
-    <item id="Section0005.xhtml" href="Text/Section0005.xhtml" media-type="application/xhtml+xml"/>
   </manifest>
   <spine toc="ncx">
     <itemref idref="Section0001.xhtml"/>
